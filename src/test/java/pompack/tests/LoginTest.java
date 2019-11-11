@@ -21,7 +21,7 @@ public class LoginTest extends BaseTest {
 	 * click on Sigin button - Constant Class 6. Verify Landed in Home Page or
 	 * not
 	 */
-
+//Login Test
 	@Test
 	public void testLogin() {
 		// automation code for Login TestCases
