@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="101533" started-at="2019-11-11T02:51:21Z" finished-at="2019-11-11T02:53:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="101533" started-at="2019-11-11T02:51:21Z" finished-at="2019-11-11T02:53:02Z">
+      <class name="pompack.tests.LoginTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:pompack.tests.LoginTest@5a8e6209]" name="testLogin" duration-ms="99080" started-at="2019-11-11T08:21:21Z" finished-at="2019-11-11T08:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testClouser()[pri:0, instance:pompack.tests.LoginTest@5a8e6209]" name="testClouser" is-config="true" duration-ms="2431" started-at="2019-11-11T08:23:00Z" finished-at="2019-11-11T08:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClouser -->
+      </class> <!-- pompack.tests.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
