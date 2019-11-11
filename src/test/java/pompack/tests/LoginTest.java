@@ -22,6 +22,7 @@ public class LoginTest extends BaseTest {
 	 * not
 	 */
 //Login Test
+	//This is the test method
 	@Test
 	public void testLogin() {
 		// automation code for Login TestCases
